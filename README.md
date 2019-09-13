@@ -48,7 +48,7 @@ Template pattern defines the skeleton of an algorithm in an operation deferring 
                 
 <hr>         
   
-  <h2> Creational design patterns <h2/>
+  <h2> Creational design patterns </h2>
   <br/>
 Example <br/>
 Abstract Factory -Creates an instance of several families of classes <br/>
@@ -60,7 +60,7 @@ Singleton - A class of which only a single instance can exist
 <br/>
 <br/>
 
-<h2> Structural design patterns <h2/>
+<h2> Structural design patterns </h2>
      <br/>
 Example <br/>
 Adapter - Match interfaces of different classes <br/>
@@ -74,7 +74,7 @@ Proxy - An object representing another object <br/>
 <br/>
 <br/>
      
-<h2> Behavioral design patterns <h2/>
+<h2> Behavioral design patterns </h2>
      <br/>
 Example <br/>
 Chain of responsibility - A way of passing a request between a chain of objects <br/>
